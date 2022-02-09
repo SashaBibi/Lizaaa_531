@@ -9,3 +9,5 @@ insert into usr (first_name, middle_name, last_name, email) values
 ('Игорь', 'Иванович', 'Горбатенков', 'gorbanenkov22@my.example.com'),
 ('Игорь', 'Артемьевич', 'Петров', 'NIKANDR132@my.example.com'),
 ('Петя', 'Семенович', 'Петров', 'Petrov5552v@my.example.com');
+
+gfgfg
